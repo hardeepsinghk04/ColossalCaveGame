@@ -30,29 +30,30 @@ ColossalCaveGame/
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Technologies Used
 
 - Java 17
 - IntelliJ IDEA
-- OOP (Object-Oriented Programming)
-- HashMap for game logic
+- Object-Oriented Programming (OOP)
+- `HashMap` for navigation logic
 
 ---
 
-## 🚀 Run the Game
+## 🚀 How to Run
 
-```bash
-Run Main.java from IntelliJ or any IDE with Java support
+1. Open the project in IntelliJ IDEA (or any Java IDE)
+2. Navigate to `Main.java`
+3. Run the `main()` method
+
+---
 
 ## 📄 License
-MIT License – use, modify, share freely!
 
+MIT License – use, modify, share freely!
 
 ---
 
-### 2. ✅ Push to GitHub
-
-You already know the steps, but just in case:
+## 📤 Push to GitHub
 
 ```bash
 git add .
