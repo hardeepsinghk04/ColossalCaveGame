@@ -44,7 +44,7 @@ ColossalCaveGame/
 ```bash
 Run Main.java from IntelliJ or any IDE with Java support
 
-📄 License
+## 📄 License
 MIT License – use, modify, share freely!
 
 
